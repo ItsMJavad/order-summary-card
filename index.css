@@ -16,6 +16,7 @@ main {
     background-color: white;
     border-radius: 1rem;
     font-family: 'Red Hat Display';
+    box-shadow: 0 2rem 2rem -1rem rgb(161, 181, 236);
 }
 
 main #illustration-hero {
